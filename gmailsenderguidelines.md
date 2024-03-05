@@ -1,4 +1,4 @@
-# Gmail 의 이메일 발신자 가이드라인 강화가 가져온 변화</title>
+# Gmail 의 이메일 발신자 가이드라인 강화가 가져온 변화
 
 원문 [Gmailの送信者のガイドラインの強化がもたらす未来](https://qiita.com/hirachan/items/f668511783c6e0663cb2)
 참조 [이메일 발신자 가이드라인](https://support.google.com/a/answer/81126?hl=ko)
